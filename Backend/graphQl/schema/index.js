@@ -42,6 +42,7 @@ input EventInput {
   date: String!
 }
 
+
 input UserInput {
   email: String!
   password: String!
